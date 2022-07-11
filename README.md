@@ -15,6 +15,18 @@
 
 
 
+
+![cam types](https://user-images.githubusercontent.com/63556843/178301048-edc4c37c-eea6-4251-bbd9-6f2ae1ab5f0f.png)
+
+
+![all cams displacement](https://user-images.githubusercontent.com/63556843/178301200-b0d8cac8-eb01-4591-b2d4-b98433a86499.png)
+
+
+
+![all cams full displacement](https://user-images.githubusercontent.com/63556843/178301143-b25819f9-0ce7-4151-886e-3e79c250c09b.png)
+
+
+
 ![more accurate plot](https://user-images.githubusercontent.com/63556843/178300683-05e3298b-709b-4ad2-9194-502de908184f.png)
 
 
