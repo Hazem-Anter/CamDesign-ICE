@@ -1,4 +1,5 @@
 # CamDesign-ICE
+## For Contact Email : [ hazemanter3@gmail.com ]  ##
 
 -Create Desktop Application for Design a Cam in Internal Combustion Engine.
 
@@ -11,6 +12,8 @@
 -used polynomial Functions from acceleration in primitive and normal cam, which is linear, and integrate it to get the velocity and integrate the velocity to get the displacement.
 
 -used polynomial Functions from jerk in accurate and more accurate cam, which is linear, and integrate it to get the acceleration and integrate the acceleration to get the velocity and integrate the velocity to get the displacement.
+
+
 
 
 
