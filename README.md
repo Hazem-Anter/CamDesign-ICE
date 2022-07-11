@@ -15,3 +15,17 @@
 
 
 
+![more accurate plot](https://user-images.githubusercontent.com/63556843/178300683-05e3298b-709b-4ad2-9194-502de908184f.png)
+
+
+
+![more accurate velocity](https://user-images.githubusercontent.com/63556843/178300731-c798ced3-4bfe-4247-936d-eb11b5b22d31.png)
+
+
+
+![more accurate acceleration](https://user-images.githubusercontent.com/63556843/178300767-b560e804-3b95-4d56-aecc-5542b92deaa4.png)
+
+
+
+![more accurate jerk](https://user-images.githubusercontent.com/63556843/178300785-46a98c2f-56b6-40b7-90ec-73b5c07dacbb.png)
+
