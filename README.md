@@ -1,7 +1,7 @@
 # CamDesign-ICE
 ## For Contact Email : [ camdesign.ice@gmail.com ]  ##
 
--Create Desktop Application for Design a Cam in Internal Combustion Engine.
+-Desktop Application for Design a Cam in Internal Combustion Engine.
 
 -Design four types of cam : [ primitive - normal- accurate - more accurate ].
 
